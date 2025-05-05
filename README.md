@@ -1,5 +1,13 @@
-# SIBECOL_evidence_wshop_2025
+# SIBECOL/AEET 2025 'Evidence synthesis in ecology' workshop
 This is a place with resources for the workshop I am running on evidence synthesis in ecology as part of the SIBECOL/AEET 2025 conference.
+
+## Tools
+
+### How to choose what kind of evidence synthesis to do
+
+* [Right review](https://whatreviewisrightforyou.knowledgetranslation.net/) - This tool is designed to provide guidance and supporting material on methods for the conduct and reporting of knowledge synthesis.
+* [MAGICKS](https://ksm-eklipse.shinyapps.io/MAGICKS/) - This is a decision support tool which will guide you to choose methods for your knowledge synthesis needs
+
 
 
 ## Useful literature
