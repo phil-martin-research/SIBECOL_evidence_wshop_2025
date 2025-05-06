@@ -8,8 +8,14 @@ This is a place with resources for the workshop I am running on evidence synthes
 * [Right review](https://whatreviewisrightforyou.knowledgetranslation.net/) - This tool is designed to provide guidance and supporting material on methods for the conduct and reporting of knowledge synthesis.
 * [MAGICKS](https://ksm-eklipse.shinyapps.io/MAGICKS/) - This is a decision support tool which will guide you to choose methods for your knowledge synthesis needs
 
+### Deduplicating searches
+* [synthesisr R package](https://github.com/mjwestgate/synthesisr) - This tool allows you to run semi-automated deduplication in R
+* [Rayyan](https://www.rayyan.ai/) - The Rayyan platform for screening papers also has a deduplication feature, but is not open source
 
-
+### Screening papers
+* [Rayyan](https://www.rayyan.ai/) - One of the best platforms for screening papers, although it requires a paid subscription to get the best features. It works well for distributed teams.
+* [Metagear R package](https://github.com/cran/metagear/tree/master) - An open source R tool for screening (and more).
+  
 ## Useful literature
 
 ### Intoductions to evidence synthesis
