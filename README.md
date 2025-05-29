@@ -7,6 +7,7 @@ This is a place with resources for the workshop I am running on evidence synthes
 
 * [Right review](https://whatreviewisrightforyou.knowledgetranslation.net/) - This tool is designed to provide guidance and supporting material on methods for the conduct and reporting of knowledge synthesis.
 * [MAGICKS](https://ksm-eklipse.shinyapps.io/MAGICKS/) - This is a decision support tool which will guide you to choose methods for your knowledge synthesis needs
+* [predictr](https://predicter.github.io/) - This tool helps you to estimate how long a systematic review might take you based on the size of the literature you find etc.
 
 ### Deduplicating searches
 * [synthesisr R package](https://github.com/mjwestgate/synthesisr) - This tool allows you to run semi-automated deduplication in R
